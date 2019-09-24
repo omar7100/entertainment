@@ -1,0 +1,27 @@
+body{
+    background-color: cornflowerblue 
+}
+body header h1{
+ text-align: center;
+ color: blue rgb(12red, 10green, 17blue)
+
+}
+
+nav-l1 {
+
+    display: inline;
+    word-spacing: 25pc;
+    text-decoration: none;
+
+
+}
+main section h1 {
+
+    text-align: center;
+    font-size: 35pc
+    
+
+
+
+} 
+
