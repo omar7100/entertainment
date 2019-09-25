@@ -1,27 +1,41 @@
 body{
-    background-color: cornflowerblue 
+    background-color: yellow;
 }
 body header h1{
  text-align: center;
- color: blue rgb(12red, 10green, 17blue)
+ color: blue rgb(12red, 10green, 17blue);
+ font-size: 50px;
 
 }
 
-nav-l1 {
+nav li {
 
     display: inline;
-    word-spacing: 25pc;
+    word-spacing: 25px;
+    font-size: 35px;
+}
+nav ul{
+    text-align: center;
+}
+
+li a{
     text-decoration: none;
-
-
 }
 main section h1 {
 
     text-align: center;
-    font-size: 35pc
-    
-
-
-
+    font-size: 35px;
 } 
+.dead img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+.steave img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
 
