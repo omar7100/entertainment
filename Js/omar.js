@@ -8,7 +8,7 @@ var chose = prompt('What do you like most? ');
 if (hourNow >= 18) {
    greeting = 'deadwood!';
 } else if (hourNow >= 12) {
-   greeting = ' talkhsow!';
+   greeting = 'talkhsow!';
 } else if (hourNow >= 0) {
    greeting = 'Tvtime!';
 } else {
