@@ -2,8 +2,8 @@
 
 //first java code
 
-var today= new Date();
-var hourNow = today.getHours();
+var today= new Date("aaaaaaaaaaaa");
+var hourNow = today.getHours("omar");
 var greeting;
 
 var chose = prompt('What do you like most? ');
