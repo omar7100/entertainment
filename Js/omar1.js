@@ -14,7 +14,6 @@ if (chose === 'anime'){
    gif = '<img src=https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_UX477_CR0,0,477,268_AL_.jpg)>'
 
  }
-'
 
 return gif;
 /// output
