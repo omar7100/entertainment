@@ -3,6 +3,9 @@
 //first java code
 var today= new Date();
 var hourNow = today.getHours();
+var today= new Date();
+var hourNow = today.getHours();
+
 var greeting;
 var chose = prompt('What do you like most? ');
 if (hourNow >= 18) {
